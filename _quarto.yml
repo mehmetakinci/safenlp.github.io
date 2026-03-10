@@ -10,7 +10,7 @@ website:
   title: "safenlp.org"
   site-url: "https://safenlp.org"
   repo-url: "https://github.com/safenlp/safenlp.github.io"
-  favicon: images/favicon_safenlp_32x32.png
+  favicon: images/new_logo_2026.png
   google-analytics: "UA-177339812-1"
   twitter-card: true
   #back-to-top-navigation: true
@@ -26,7 +26,7 @@ website:
   navbar:
     search: true
     title: false
-    logo: images/logo_safenlp.png
+    logo: images/new_logo_2026.png
     background: "#F6F5F3"
     logo-alt: "safenlp.org"
     left:
